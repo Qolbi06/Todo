@@ -45,11 +45,6 @@
                         <input type="password" class="form-control">
                       </div>
                     </div>
-                    <div class="row mb-3">
-                      <label for="inputNumber" class="col-sm-2 col-form-label">Number</label>
-                      <div class="col-sm-10">
-                        <input type="number" class="form-control">
-                      </div>
                     </div>
                     <div class="row mb-3">
                       <label for="inputNumber" class="col-sm-2 col-form-label">File Upload</label>
